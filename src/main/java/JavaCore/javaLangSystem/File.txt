@@ -1,0 +1,5 @@
+some message
+1613546262444
+Wed Feb 17 02:17:42 AMT 2021
+casa ao lado
+C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\maven\bin;C:\ProgramData\chocolatey\bin;C:\apache-maven-3.6.3\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\ProgramData\UNIVALI\Portugol Studio;C:\Program Files\Java\jdk-15.0.2\bin;C:\Python\Python38\Scripts\;C:\Python\Python38\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Afonso\AppData\Local\Microsoft\WindowsApps;C:\maven\bin;C:\tools\neovim\Neovim\bin;C:\apache-maven-3.6.3\bin;C:\Program Files\heroku\bin;C:\Users\Afonso\.dotnet\tools;C:\Users\Afonso\AppData\Local\Programs\Microsoft VS Code\bin
